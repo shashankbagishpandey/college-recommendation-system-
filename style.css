@@ -1,0 +1,59 @@
+*{
+	padding: 0;
+	margin: 0; 
+	box-sizing: border-box;
+}
+
+h1{
+	font-family: 'Dancing Script', cursive;
+
+}
+h2{
+	font-family: 'Playfair Display', serif;
+}
+li a{
+	color: #0d6efd !important;
+
+}
+li a:hover{
+	color: white !important;
+}
+
+
+/*#banner{
+	background-image: linear-gradient(to right ,#fff,blue);
+	color: #fff;
+	padding-top: 5%;
+}
+#home-containt{
+	height: 70vh;
+
+}*/
+/*.title{
+	margin-top: 100px;
+}
+.bottom-img{
+	width: 100%;
+}*/
+/*.carousel-item img{
+	widows: 100%;
+	height: 95vh;
+}
+
+.carousel-caption{
+	bottom: 250px;
+	padding-right: 100px;
+	padding-left: 100px;
+
+}
+.carousel-caption h2{
+font-weight: 400;
+font-size: 50px;
+}
+.card-body img{
+	min-width: 50%;
+	max-height: 200px;
+}
+.offers img{
+	max-height: 60vh;
+}*/
